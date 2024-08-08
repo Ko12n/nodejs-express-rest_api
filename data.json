@@ -1,0 +1,18 @@
+[
+  {
+    "id":"test-1",
+    "nickName":"Ko12n",
+    "fristName":"Wisit",
+    "lastName":"Itchan",
+    "age":"27",
+    "city":"Nakhonpranom"
+  },
+  {
+    "id":"test-2",
+    "nickName":"jojo",
+    "fristName":"Jony",
+    "lastName":"Jostar",
+    "age":"30",
+    "city":"Bankkok"
+  }
+]
