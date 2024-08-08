@@ -21,11 +21,11 @@
 - ใช้ postman ในการทดสอบ get, post, put, patch, delete
 
 # URL API ที่ใช้
-รับข้อมูลหลายรายการ get : http://localhost:3000/todos
-รับข้อมูลรายการเดียว get :  http://localhost:3000/todos/กรอก value id
-สร้างข้อมูล 1 รายการ post: http://localhost:3000/todos
-สร้างข้อมูลหลายรายการ post: http://localhost:3000/todos/bulk
-เขียนทับข้อมูล put : http://localhost:3000/todos/กรอก value id
-แก้ไขข้อมูล patch: http://localhost:3000/todos/กรอก value id
-ลบข้อมูล 1 รายการ delete: http://localhost:3000/todos/กรอก value id
-ลบข้อมูลหลายรายการ delete: http://localhost:3000/todos?in= กรอก value id 1,กรอก value id 2
+- รับข้อมูลหลายรายการ get : http://localhost:3000/todos
+- รับข้อมูลรายการเดียว get :  http://localhost:3000/todos/กรอก value id
+- สร้างข้อมูล 1 รายการ post: http://localhost:3000/todos
+- สร้างข้อมูลหลายรายการ post: http://localhost:3000/todos/bulk
+- เขียนทับข้อมูล put : http://localhost:3000/todos/กรอก value id
+- แก้ไขข้อมูล patch: http://localhost:3000/todos/กรอก value id
+- ลบข้อมูล 1 รายการ delete: http://localhost:3000/todos/กรอก value id
+- ลบข้อมูลหลายรายการ delete: http://localhost:3000/todos?in= กรอก value id 1,กรอก value id 2
